@@ -1,0 +1,20 @@
+{
+  "name": "bull-queue-boilerplate",
+  "version": "1.0.0",
+  "main": "worker.ts",
+  "repository": "git@github.com:norbornen/bull-queue-boilerplate.git",
+  "author": "norbornen",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mocha-typescript": "^1.1.17",
+    "ts-mocha": "^2.0.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "bull": "^3.4.8",
+    "config": "^2.0.1",
+    "yargs": "^12.0.2"
+  }
+}
